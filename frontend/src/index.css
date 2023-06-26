@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&family=Ysabeau&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .form-input {
+    @apply bg-primary rounded-md px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-300;
+  }
+  .sidebar-element {
+    @apply relative flex w-[50px] h-[50px] bg-secondary justify-center mt-2 mb-2 
+    mx-auto shadow-md rounded-3xl hover:rounded-xl items-center
+    transition-all duration-300 ease-linear cursor-pointer;
+  }
+  .sidebar-name {
+    @apply absolute w-auto p-2 m-2 min-w-max left-14 rounded-md shadow-sm
+    text-xs bg-white text-black font-semibold transition-all duration-100 scale-0 origin-left z-[999];
+  }
+}
+
+:root {
+  font-size: 16px;
+  font-family: "Ysabeau", sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: 0.25rem;
+}

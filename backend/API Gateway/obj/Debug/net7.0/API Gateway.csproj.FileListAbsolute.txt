@@ -1,0 +1,91 @@
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\appsettings.json
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\API Gateway.exe
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\API Gateway.deps.json
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\API Gateway.runtimeconfig.json
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\API Gateway.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\API Gateway.pdb
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.csproj.AssemblyReference.cache
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.AssemblyInfoInputs.cache
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.AssemblyInfo.cs
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.csproj.CoreCompileInputs.cache
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\staticwebassets\msbuild.API Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\staticwebassets\msbuild.build.API Gateway.props
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API Gateway.props
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API Gateway.props
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\scopedcss\bundle\API Gateway.styles.css
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.csproj.CopyComplete
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.dll
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\refint\API Gateway.dll
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.pdb
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\API Gateway.genruntimeconfig.cache
+C:\Users\kovip\Desktop\API Gateway\obj\Debug\net7.0\ref\API Gateway.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kovip\Desktop\API Gateway\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\appsettings.json
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\API Gateway.exe
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\API Gateway.deps.json
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\API Gateway.runtimeconfig.json
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\API Gateway.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\API Gateway.pdb
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.csproj.AssemblyReference.cache
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.AssemblyInfoInputs.cache
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.AssemblyInfo.cs
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.csproj.CoreCompileInputs.cache
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\staticwebassets\msbuild.API Gateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\staticwebassets\msbuild.build.API Gateway.props
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.API Gateway.props
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.API Gateway.props
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\scopedcss\bundle\API Gateway.styles.css
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.csproj.CopyComplete
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\refint\API Gateway.dll
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.pdb
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\API Gateway.genruntimeconfig.cache
+C:\Users\kovip\Desktop\Backend\API Gateway\obj\Debug\net7.0\ref\API Gateway.dll
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\nunit.engine.dll
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\nunit.engine.api.dll
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\nunit.engine.core.dll
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\testcentric.engine.metadata.dll
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Castle.Core.dll
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\Moq.dll
+c:\Users\kovip\Desktop\Backend\API Gateway\bin\Debug\net7.0\nunit.framework.dll

@@ -1,0 +1,10 @@
+{
+  "name": "Chat",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Azaan Ali",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  }
+}
